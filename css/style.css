@@ -1,0 +1,7 @@
+.first-bgc {
+    box-sizing: border-box;
+    padding: 0;
+    height: 220px;
+    width: 350px;
+    background-color: red;
+}
